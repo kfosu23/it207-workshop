@@ -1,0 +1,1 @@
+only one line with no trailing newline

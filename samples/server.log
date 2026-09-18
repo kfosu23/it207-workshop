@@ -1,0 +1,15 @@
+2026-09-14 08:01:12 INFO  Server started on port 8080
+2026-09-14 08:01:13 INFO  Database connection pool initialized
+2026-09-14 08:04:55 WARN  Slow query detected: 1420ms
+2026-09-14 08:07:02 ERROR Failed to connect to cache node 2
+2026-09-14 08:07:03 INFO  Retrying cache connection
+2026-09-14 08:07:09 ERROR Cache retry failed, falling back to disk
+2026-09-14 08:11:40 INFO  User login: kfosuhene
+2026-09-14 08:12:01 WARN  Rate limit approaching for client 10.0.0.42
+2026-09-14 08:15:33 ERROR Unhandled exception in request handler
+2026-09-14 08:15:34 INFO  Request aborted
+2026-09-14 08:19:20 INFO  Scheduled backup started
+2026-09-14 08:24:48 ERROR Backup volume not writable
+2026-09-14 08:25:00 INFO  Backup retry queued
+2026-09-14 08:31:17 ERROR Disk usage above 90 percent
+2026-09-14 08:33:02 INFO  Shutdown signal received
