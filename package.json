@@ -1,0 +1,10 @@
+{
+  "name": "it207-workshop",
+  "version": "1.0.0",
+  "description": "Simplified grep and head in JavaScript, plus an original FindFirst tool. IT 207 AI Assisted Programming Workshop.",
+  "main": "findfirst.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "license": "MIT"
+}
